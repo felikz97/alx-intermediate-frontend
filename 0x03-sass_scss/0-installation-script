@@ -1,0 +1,7 @@
+Steps to Install SASS Globally
+1. Install Node.js (if not already installed)
+2. Open your terminal or command prompt
+3. Install SASS globally 
+        npm install -g sass
+4. Check if it's working
+        sass --version
